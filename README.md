@@ -1,5 +1,5 @@
 # FinalProjectIAK
-Final Project sebagai syarat mendapatkan Sertifikat Indonesia Android Kejar
+Final Project sebagai syarat mendapatkan sertifikat Indonesia Android Kejar
 
 Berikut Screenshot hasil Study Group Online : 
 
